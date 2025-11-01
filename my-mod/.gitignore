@@ -1,0 +1,9 @@
+# Gradle
+.gradle/
+build/
+
+# IDE
+.idea/
+
+# Minecraft runtime files
+run/
